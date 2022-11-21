@@ -2,7 +2,7 @@ Junior Software Developer at Marionette XR
 
 I have a great interest in developing for Virtual Reality. 
 
-I am experienced in Object Orientated Programming, Unity 3D and working in a team. Furthermore, I enjoy 3D modeling/animation.
+I have been working with Unity 3D/C# for over 5 years now and enjoy being part of a team! Furthermore, I have a bit of experience with simple 3D modeling/animation.
 
 My plan is to move my course work and hobby projects here for display but that might take a while! In the meantime you can read about my accademic projects and other work on my linkedin 
 www.linkedin.com/in/miroslavks96
