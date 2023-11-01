@@ -1,4 +1,4 @@
-Junior Software Developer at Marionette XR
+Junior Software Developer at ̶M̶a̶r̶i̶o̶n̶e̶t̶t̶e̶ ̶X̶R̶  Aveva part of ERM R&D 
 
 I have a great interest in developing for Virtual Reality. 
 
